@@ -29,10 +29,9 @@ git remote add origin https://github.com/your-username/repo-name.git
 Step 7: Set main branch:  
 git branch -M main
 
-Step 8: Push to GitHub: git push -u origin main..
-git push -u origin main
+Step 8: Push to GitHub: git push -u origin main.  
+git push -u origin main  
 When prompted:
-
 Username = your GitHub username
 Password = Personal Access Token (PAT) (not your GitHub password)
 
