@@ -26,7 +26,7 @@ git commit -m "Initial commit"
 Step 6: Add remote repository:(connect to github)  
 git remote add origin https://github.com/your-username/repo-name.git
 
-Step 7: Set main branch:..
+Step 7: Set main branch:  
 git branch -M main
 
 Step 8: Push to GitHub: git push -u origin main..
