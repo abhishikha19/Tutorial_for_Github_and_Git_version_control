@@ -20,7 +20,7 @@ git init
 Step 4: Add files:  
 git add .
 
-Step 5: Commit files: git commit -m 'Initial commit'..
+Step 5: Commit files:  
 git commit -m "Initial commit" 
 
 Step 6: Add remote repository:connect to github..
