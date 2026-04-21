@@ -10,7 +10,7 @@ Click Create Repository
 
 Step 1: Create a new repository on GitHub (do not add README initially).  
 https://github.com/your-username/repo-name.git
-Step 2: Navigate to your project folder using terminal (cd path/to/project).
+Step 2: Navigate to your project folder using terminal (cd path/to/project). 
 cd path/to/your/project
 Step 3: Initialize git using: git init
 git init
