@@ -10,19 +10,19 @@ Click Create Repository
 
 Step 1: Create a new repository on GitHub (do not add README initially).  
 https://github.com/your-username/repo-name.git
-Step 2: Navigate to your project folder using terminal (cd path/to/project). 
+Step 2: Navigate to your project folder using terminal (cd path/to/project).. 
 cd path/to/your/project
-Step 3: Initialize git using: git init
+Step 3: Initialize git using: git init..
 git init
-Step 4: Add files: git add .
+Step 4: Add files: git add ...
 git add .
-Step 5: Commit files: git commit -m 'Initial commit'
+Step 5: Commit files: git commit -m 'Initial commit'..
 git commit -m "Initial commit" 
-Step 6: Add remote repository:connect to github
+Step 6: Add remote repository:connect to github..
 git remote add origin https://github.com/your-username/repo-name.git
-Step 7: Set main branch:
+Step 7: Set main branch:..
 git branch -M main
-Step 8: Push to GitHub: git push -u origin main
+Step 8: Push to GitHub: git push -u origin main..
 git push -u origin main
 When prompted:
 
