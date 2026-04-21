@@ -17,7 +17,7 @@ cd path/to/your/project
 Step 3: Initialize git using:   
 git init
 
-Step 4: Add files: git add ...
+Step 4: Add files:  
 git add .
 
 Step 5: Commit files: git commit -m 'Initial commit'..
