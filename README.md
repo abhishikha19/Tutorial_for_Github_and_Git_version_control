@@ -8,7 +8,7 @@ Click Create Repository
 
 👉 Copy the HTTPS URL, e.g.:
 
-Step 1: Create a new repository on GitHub (do not add README initially).
+Step 1: Create a new repository on GitHub (do not add README initially).  
 https://github.com/your-username/repo-name.git
 Step 2: Navigate to your project folder using terminal (cd path/to/project).
 cd path/to/your/project
