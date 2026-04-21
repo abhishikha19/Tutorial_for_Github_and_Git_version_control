@@ -23,7 +23,7 @@ git add .
 Step 5: Commit files:  
 git commit -m "Initial commit" 
 
-Step 6: Add remote repository:connect to github..
+Step 6: Add remote repository:(connect to github)  
 git remote add origin https://github.com/your-username/repo-name.git
 
 Step 7: Set main branch:..
