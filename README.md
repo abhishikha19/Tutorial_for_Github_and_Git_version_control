@@ -14,7 +14,7 @@ https://github.com/your-username/repo-name.git
 Step 2: Navigate to your project folder using terminal(cd path/to/project).. 
 cd path/to/your/project
 
-Step 3: Initialize git using: git init..
+Step 3: Initialize git using:   
 git init
 
 Step 4: Add files: git add ...
