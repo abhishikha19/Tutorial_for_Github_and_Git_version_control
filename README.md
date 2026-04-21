@@ -1,7 +1,4 @@
-# Tutorial for GitHub version control
-
-Notes and materials for learning Git and GitHub.
-
+# Tutorial for learning Git and GitHub.
 How to Create a New Git Repository and Upload Files to GitHub
 Go to GitHub
 Click New Repository
