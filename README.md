@@ -38,13 +38,13 @@ Password = Personal Access Token (PAT) (not your GitHub password)
 
 Imp Note: Use Personal Access Token (PAT) instead of password when prompted.
 
-Git Commands in one go.^M
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/repo-name.git
-git push -u origin main
+Git Commands in one go.^M  
+git init  
+git add .  
+git commit -m "Initial commit"  
+git branch -M main  
+git remote add origin https://github.com/your-username/repo-name.git  
+git push -u origin main  
 
 Common Mistakes to avoid while creating git repository^M
 
@@ -52,13 +52,13 @@ Common Mistakes to avoid while creating git repository^M
 ❌ Using password → use PAT
 ❌ Mixing SSH and HTTPS
 
-Git Branch Commands^M
-git remote -v (to verify remote)
-git branch (to check branch)
-git branch -M main (to rename branch)
-git checkout <branch name>(to navigate)
-git checkout -b <new branch name>(to create new branch)
-git branch -d <branch name > (to delete branch>
+Git Branch Commands^M  
+git remote -v (to verify remote)  
+git branch (to check branch)  
+git branch -M main (to rename branch)  
+git checkout <branch name>(to navigate)  
+git checkout -b <new branch name>(to create new branch)  
+git branch -d <branch name > (to delete branch>  
 
 
 Git Command for merging code^M
