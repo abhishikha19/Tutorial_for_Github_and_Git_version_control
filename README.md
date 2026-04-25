@@ -51,3 +51,23 @@ Common Mistakes to avoid while creating git repository^M
 ❌ Adding README on GitHub → causes merge conflicts
 ❌ Using password → use PAT
 ❌ Mixing SSH and HTTPS
+
+Git Branch Commands^M
+git remote -v (to verify remote)
+git branch (to check branch)
+git branch -M main (to rename branch)
+git checkout <branch name>(to navigate)
+git checkout -b <new branch name>(to create new branch)
+git branch -d <branch name > (to delete branch>
+
+
+Git Command for merging code^M
+git diff<branch name> (to compare commits,branches,files & more)
+git merge<branch name> (to merge 2 branches)
+
+second way to merge code from branch to main is 
+Create PUll REquest
+
+
+
+
